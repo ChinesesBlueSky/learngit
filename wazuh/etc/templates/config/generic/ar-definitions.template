@@ -1,0 +1,7 @@
+  <active-response>
+    <command>firewall-drop</command>
+    <location>all</location>
+    <rules_group>attack</rules_group>
+    <timeout>700</timeout>
+    <repeated_offenders>30,60,120</repeated_offenders>
+  </active-response>

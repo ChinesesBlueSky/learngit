@@ -1,0 +1,12 @@
+skip_check_exist:apache:/var/log/apache/error.log
+skip_check_exist:apache:/var/log/apache/error_log
+skip_check_exist:apache:/var/log/apache/access.log
+skip_check_exist:apache:/var/log/apache/access_log
+skip_check_exist:apache:/var/www/logs/access_log
+skip_check_exist:apache:/var/www/logs/error_log
+skip_check_exist:apache:/var/log/httpd/error_log
+skip_check_exist:apache:/var/log/httpd/access_log
+skip_check_exist:apache:/var/log/nginx/access.log
+skip_check_exist:apache:/var/log/nginx/error.log
+skip_check_exist:apache:/var/log/apache2/error.log
+skip_check_exist:apache:/var/log/apache2/access.log
